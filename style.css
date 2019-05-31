@@ -1,0 +1,186 @@
+body {
+	background-image: url(imagens/fun.png);
+	font-family:'Cookie', cursive;
+
+}
+.banner{
+	background-image: url(imagens/banner.png);
+	background-repeat: no-repeat;
+	background-size: 1300px;
+	height: 300px;
+}
+
+.bloco ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+.bloco li{
+	float: left;
+}
+.bloco li a {
+	display: block;
+	color: #ffffff;
+	text-align: center;
+	padding: 14px 50px 20px;
+	text-decoration: none;
+	font-size: 26px;
+	font-family: 'Pacifico', cursive;
+
+}
+li a:hover {
+	background-color: #ea962e;
+}
+.fonte{
+	font-size: 30px;
+	color: #333;
+	font-family:'Cookie', cursive;
+	text-align: center;
+}
+.galeria {
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+
+}
+.galeria ul {
+	list-style-type: none;
+	text-decoration: none;
+}
+.produtos  li  p {
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+	list-style-type: none;
+}
+
+p{
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+}
+
+h1{
+	font-family:'Cookie', cursive;
+	font-size: 40px;
+}
+
+.galeria a{
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+	text-decoration: none;
+}
+.flor {
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+
+}
+.flor h2 {
+	font-size: 38px;
+	font-family:'Cookie', cursive;
+}
+.flor a{
+	text-decoration: none;
+}
+.contato h2{
+	font-family:'Cookie', cursive;
+	font-size: 40px;
+}
+.num1 {
+	padding-top: 60px;
+	padding-bottom: 0;
+	padding-top: 60px;
+}
+.contato {
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+}
+
+.numeros p{
+	margin-left: 5%;
+	margin-top: -4%;
+}
+.contato a{
+	text-decoration: none;
+}
+.galeria{
+	display: flex;
+	justify-content: center;
+}
+.imagem{
+	width: 200px;
+	margin: 10px;
+	position: relative;
+	text-align: center;
+	top: 30px;
+}
+.galeria2{
+	font-family:'Cookie', cursive;
+	font-size: 40px;
+	text-align: center;
+}
+.galeria3 {
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+	margin-top: 100px;
+	margin-left: 1000px;
+	text-decoration: none;
+}
+
+.produtos{
+	display: flex;
+	justify-content: center;
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+
+}
+.flores{
+	width: 200px;
+	margin: 10px;
+	position: relative;
+	text-align: center;
+	top: 30px;
+
+}
+.flor2 {
+	text-align: center;
+	font-size: 50px;
+	font-family:'Cookie', cursive;
+
+}
+.voltar{
+	font-family:'Cookie', cursive;
+	font-size: 26px;
+	margin-top: 120px;
+	margin-left: 900px;
+	text-decoration: none;
+}
+.footer {
+	text-align: center;
+	background-color: #dba048;
+
+}
+.footer .footer-rede-social{
+	margin-top: -2%;
+}
+.contato{
+	width: 300px;
+}
+.contato .input-text{
+	width: 100%
+}
+.contato .input-radio{
+	display: inline;
+	width: 50%;
+}
+.fonte1{
+	font-family:'Cookie', cursive;
+	font-size: 20px;
+}
+.flor p{
+	font-size: 27px;
+}
+
+
+
+
